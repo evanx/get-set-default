@@ -1,7 +1,7 @@
 {
   "name": "@evanx/get-set-default",
   "version": "0.1.0",
-  "description": "",
+  "description": "Get an object property, setting and returning default value if does not exist yet.",
   "main": "index.js",
   "scripts": {
   },
